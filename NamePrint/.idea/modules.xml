@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BasicCalc/BasicCalc.iml" filepath="$PROJECT_DIR$/BasicCalc/BasicCalc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HigherLowerEqual/HigherLowerEqual.iml" filepath="$PROJECT_DIR$/HigherLowerEqual/HigherLowerEqual.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NamePrint.iml" filepath="$PROJECT_DIR$/NamePrint.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PossitiveOrNegative/PossitiveOrNegative.iml" filepath="$PROJECT_DIR$/PossitiveOrNegative/PossitiveOrNegative.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SecondsCounter/SecondsCounter.iml" filepath="$PROJECT_DIR$/SecondsCounter/SecondsCounter.iml" />
+    </modules>
+  </component>
+</project>
